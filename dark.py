@@ -45,7 +45,7 @@ def jalan(z):
 		time.sleep(0.05)
 		
 		
-logo = """  \x1b[1;93m\\\               _               // \n   \\\             | |             // \n    \\\         _ _| |_           // \n     \\\       | | | | |_        // \n      \\\      | | | | | |      // \n       \\\     |         |     // \n  \x1b[1;96m\\\\\\\\\\\\\\\\_\x1b[1;96mOK \x1b[1;93m\_________/ \x1b[1;96mFB_/////////\n\n \x1b[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n \x1b[1;95m✫╬─ \x1b[1;92mAuthor \x1b[1;91m: \x1b[1;93mANTJHY                  \x1b[1;95m─╬✫\n ✫╬─ \x1b[1;92mFB    \x1b[1;92m \x1b[1;91m: \x1b[1;96mFacebook.com/khan amir     \x1b[1;95m─╬✫\n ✫╬─ \x1b[1;92mGitHub \x1b[1;91m: \x1b[1;94mGithub.com/tidak tau   \x1b[1;95m─╬✫\n \x1b[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+logo = """  \x1b[1;93m\\\               _               // \n   \\\             | |             // \n    \\\         _ _| |_           // \n     \\\       | | | | |_        // \n      \\\      | | | | | |      // \n       \\\     |         |     // \n  \x1b[1;96m\\\\\\\\\\\\\\\\_\x1b[1;96mOK \x1b[1;93m\_________/ \x1b[1;96mFB_/////////\n\n \x1b[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n \x1b[1;95m✫>> \x1b[1;92mAuthor \x1b[1;91m: \x1b[1;93mANT JHY                 \x1b[1;95m─╬✫\n ✫>> \x1b[1;92mFB    \x1b[1;92m \x1b[1;91m: \x1b[1;96mfacebook.com/khan amir     \x1b[1;95m─╬✫\n ✫>> \x1b[1;92mYT     \x1b[1;91m: \x1b[1;94mYoutube.com/BG A16     \x1b[1;95m─╬✫\n \x1b[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 """
 
 def tik():
@@ -73,14 +73,14 @@ def siapa():
 		siapa()
 	else:
 		os.system('clear')
-		jalan("\033[1;97mSelamat datang \033[1;92m" +nama+ "\n\033[1;97mTerimakasih telah menggunakan tools ini !!")
+		jalan("\033[1;97mSelamat datang \033[1;92m" +nama+ "\n\033[1;97mTerimakasih telah menggunakan SC/tools ini !!")
 		time.sleep(1)
 		loginSC()
 		
 		
 def loginSC():
 	os.system('clear')
-	print"\033[1;97mSilahkan login SC nya dulu bosque\n"
+	print"\033[1;97mlogin SC nya dulu bosque\n"
 	username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
 	if username =="amir" and password =="bga16":
